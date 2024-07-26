@@ -1,0 +1,6 @@
+[Basesystem_Module_x86_64:SLE-Module-Basesystem15-SP6-Updates]
+name=SLE-Module-Basesystem15-SP6-Updates
+enabled=1
+autorefresh=1
+baseurl=plugin:/susecloud?credentials=Basesystem_Module_x86_64&path=/repo/SUSE/Updates/SLE-Module-Basesystem/15-SP6/x86_64/update/
+service=Basesystem_Module_x86_64

@@ -1,0 +1,6 @@
+[Public_Cloud_Module_x86_64:SLE-Module-Public-Cloud15-SP6-Debuginfo-Pool]
+name=SLE-Module-Public-Cloud15-SP6-Debuginfo-Pool
+enabled=0
+autorefresh=0
+baseurl=plugin:/susecloud?credentials=Public_Cloud_Module_x86_64&path=/repo/SUSE/Products/SLE-Module-Public-Cloud/15-SP6/x86_64/product_debug/
+service=Public_Cloud_Module_x86_64

@@ -1,0 +1,4 @@
+[Kubernetes]
+enabled=1
+autorefresh=1
+baseurl=https://pkgs.k8s.io/core:/stable:/v1.30/rpm/

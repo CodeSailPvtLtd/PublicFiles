@@ -1,0 +1,6 @@
+[Containers_Module_x86_64:SLE-Module-Containers15-SP6-Debuginfo-Pool]
+name=SLE-Module-Containers15-SP6-Debuginfo-Pool
+enabled=0
+autorefresh=0
+baseurl=plugin:/susecloud?credentials=Containers_Module_x86_64&path=/repo/SUSE/Products/SLE-Module-Containers/15-SP6/x86_64/product_debug/
+service=Containers_Module_x86_64

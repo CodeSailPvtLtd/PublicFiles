@@ -1,0 +1,6 @@
+[Python_3_Module_x86_64:SLE-Module-Python3-15-SP6-Debuginfo-Updates]
+name=SLE-Module-Python3-15-SP6-Debuginfo-Updates
+enabled=0
+autorefresh=1
+baseurl=plugin:/susecloud?credentials=Python_3_Module_x86_64&path=/repo/SUSE/Updates/SLE-Module-Python3/15-SP6/x86_64/update_debug/
+service=Python_3_Module_x86_64

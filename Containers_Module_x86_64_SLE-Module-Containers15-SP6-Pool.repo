@@ -1,0 +1,6 @@
+[Containers_Module_x86_64:SLE-Module-Containers15-SP6-Pool]
+name=SLE-Module-Containers15-SP6-Pool
+enabled=1
+autorefresh=0
+baseurl=plugin:/susecloud?credentials=Containers_Module_x86_64&path=/repo/SUSE/Products/SLE-Module-Containers/15-SP6/x86_64/product/
+service=Containers_Module_x86_64

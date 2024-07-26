@@ -1,0 +1,6 @@
+[Server_Applications_Module_x86_64:SLE-Module-Server-Applications15-SP6-Source-Pool]
+name=SLE-Module-Server-Applications15-SP6-Source-Pool
+enabled=0
+autorefresh=0
+baseurl=plugin:/susecloud?credentials=Server_Applications_Module_x86_64&path=/repo/SUSE/Products/SLE-Module-Server-Applications/15-SP6/x86_64/product_source/
+service=Server_Applications_Module_x86_64

@@ -1,0 +1,6 @@
+[Web_and_Scripting_Module_x86_64:SLE-Module-Web-Scripting15-SP6-Debuginfo-Pool]
+name=SLE-Module-Web-Scripting15-SP6-Debuginfo-Pool
+enabled=0
+autorefresh=0
+baseurl=plugin:/susecloud?credentials=Web_and_Scripting_Module_x86_64&path=/repo/SUSE/Products/SLE-Module-Web-Scripting/15-SP6/x86_64/product_debug/
+service=Web_and_Scripting_Module_x86_64
