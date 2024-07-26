@@ -1,0 +1,6 @@
+[Public_Cloud_Module_x86_64:SLE-Module-Public-Cloud15-SP6-Updates]
+name=SLE-Module-Public-Cloud15-SP6-Updates
+enabled=1
+autorefresh=1
+baseurl=plugin:/susecloud?credentials=Public_Cloud_Module_x86_64&path=/repo/SUSE/Updates/SLE-Module-Public-Cloud/15-SP6/x86_64/update/
+service=Public_Cloud_Module_x86_64

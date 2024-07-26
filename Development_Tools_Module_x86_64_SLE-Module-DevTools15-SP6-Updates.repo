@@ -1,0 +1,6 @@
+[Development_Tools_Module_x86_64:SLE-Module-DevTools15-SP6-Updates]
+name=SLE-Module-DevTools15-SP6-Updates
+enabled=1
+autorefresh=1
+baseurl=plugin:/susecloud?credentials=Development_Tools_Module_x86_64&path=/repo/SUSE/Updates/SLE-Module-Development-Tools/15-SP6/x86_64/update/
+service=Development_Tools_Module_x86_64

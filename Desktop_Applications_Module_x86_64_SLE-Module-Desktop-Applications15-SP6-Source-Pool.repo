@@ -1,0 +1,6 @@
+[Desktop_Applications_Module_x86_64:SLE-Module-Desktop-Applications15-SP6-Source-Pool]
+name=SLE-Module-Desktop-Applications15-SP6-Source-Pool
+enabled=0
+autorefresh=0
+baseurl=plugin:/susecloud?credentials=Desktop_Applications_Module_x86_64&path=/repo/SUSE/Products/SLE-Module-Desktop-Applications/15-SP6/x86_64/product_source/
+service=Desktop_Applications_Module_x86_64
